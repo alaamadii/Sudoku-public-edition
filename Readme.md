@@ -3,7 +3,7 @@
 A modern Sudoku game built with React Native, Expo, TypeScript, and Zustand.
 
 This project includes classic Sudoku gameplay, multiple difficulty levels, a daily challenge mode, persistent game state, and logic tests for puzzle generation/solving.
-![My Image](photo.png)
+![My Image](photo.jpeg)
 
 ## Features
 
